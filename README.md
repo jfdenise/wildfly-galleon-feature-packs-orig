@@ -1,1 +1,1 @@
-# wildfly-feature-packs
+# wildfly-galleon-feature-packs
